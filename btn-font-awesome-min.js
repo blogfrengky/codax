@@ -1,3 +1,4 @@
+<script type="text/javascript">
 var cssId = 'myCss';  // you could encode the css path itself to generate id..
 if (!document.getElementById(cssId))
 {
@@ -10,3 +11,4 @@ if (!document.getElementById(cssId))
     link.media = 'all';
     head.appendChild(link);
 }
+</script>
