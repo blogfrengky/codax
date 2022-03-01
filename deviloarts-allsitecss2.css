@@ -8,8 +8,8 @@
 
 /* Style Button by frengky.id */
 .btn {
-  background-color: #f08519;
-  border: 2px solid #EE3A3A;
+  background-color: white;
+  border: 2px solid #f08519;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -19,7 +19,7 @@
   background-color: white;
 }
 .btn a {
-    color: #EE3A3A;
+    color: #f08519;
 }  
 .btn a:hover {
   color: black;
