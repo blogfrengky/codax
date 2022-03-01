@@ -16,11 +16,11 @@
   margin: 10px;
 }
 .btn:hover {
-  background-color: white;
+  background-color: black;
 }
 .btn a {
     color: #f08519;
 }  
 .btn a:hover {
-  color: black;
+  color: white;
 }
